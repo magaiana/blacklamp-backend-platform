@@ -1,8 +1,14 @@
+using BlackLamp.Application.Implementation;
+using BlackLamp.Application.Interfaces.OpenApi;
+using BlackLamp.Infrastructure.OpenAi;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddSingleton<IChatGPTClient, ChatGPTClient>();
+builder.Services.AddTransient<IChatGPTService, ChatGPTService>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

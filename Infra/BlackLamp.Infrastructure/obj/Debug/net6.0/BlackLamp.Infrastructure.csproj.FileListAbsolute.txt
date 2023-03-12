@@ -1,0 +1,17 @@
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\bin\Debug\net6.0\BlackLamp.Infrastructure.deps.json
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\bin\Debug\net6.0\BlackLamp.Infrastructure.dll
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\bin\Debug\net6.0\BlackLamp.Infrastructure.pdb
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\bin\Debug\net6.0\BlackLamp.Application.dll
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\bin\Debug\net6.0\BlackLamp.Domain.dll
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\bin\Debug\net6.0\BlackLamp.Application.pdb
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\bin\Debug\net6.0\BlackLamp.Domain.pdb
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.csproj.AssemblyReference.cache
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.AssemblyInfoInputs.cache
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.AssemblyInfo.cs
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.csproj.CopyComplete
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.dll
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\refint\BlackLamp.Infrastructure.dll
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\BlackLamp.Infrastructure.pdb
+C:\Development\Personal\BlackLamp.Platform\Infra\BlackLamp.Infrastructure\obj\Debug\net6.0\ref\BlackLamp.Infrastructure.dll

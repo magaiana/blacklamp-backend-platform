@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlackLamp.Application/1.0.0": {
+        "dependencies": {
+          "BlackLamp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BlackLamp.Application.dll": {}
+        }
+      },
+      "BlackLamp.Domain/1.0.0": {
+        "runtime": {
+          "BlackLamp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackLamp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlackLamp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

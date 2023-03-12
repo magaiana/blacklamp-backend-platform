@@ -1,0 +1,15 @@
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\bin\Debug\net6.0\BlackLamp.Application.deps.json
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\bin\Debug\net6.0\BlackLamp.Application.dll
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\bin\Debug\net6.0\BlackLamp.Application.pdb
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\bin\Debug\net6.0\BlackLamp.Domain.dll
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\bin\Debug\net6.0\BlackLamp.Domain.pdb
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.csproj.AssemblyReference.cache
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.AssemblyInfoInputs.cache
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.AssemblyInfo.cs
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.csproj.CoreCompileInputs.cache
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.csproj.CopyComplete
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.dll
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\refint\BlackLamp.Application.dll
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\BlackLamp.Application.pdb
+C:\Development\Personal\BlackLamp.Platform\Core\BlackLamp.Application\obj\Debug\net6.0\ref\BlackLamp.Application.dll

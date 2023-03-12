@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O7gsemz8PXx9xi7ZmZfDRp1q6SYAdxqKj8cMZSxBf1Q=",
+  "Source": "BlackLamp.Api",
+  "BasePath": "_content/BlackLamp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

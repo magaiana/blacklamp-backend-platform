@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\BlackLamp.Application\BlackLamp.Application.csproj" />
+    <ProjectReference Include="..\..\Core\BlackLamp.Domain\BlackLamp.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

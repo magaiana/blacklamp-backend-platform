@@ -28,7 +28,8 @@
       ],
       "sources": {
         "https://alm.deltatre.it/tfs/D3Alm/_packaging/ott-packages/nuget/v3/index.json": {},
-        "https://alm.deltatre.it/tfs/International%20Market/_packaging/bein-sports/nuget/v3/index.json": {}
+        "https://alm.deltatre.it/tfs/International%20Market/_packaging/bein-sports/nuget/v3/index.json": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
